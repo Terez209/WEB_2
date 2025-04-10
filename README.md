@@ -9,9 +9,9 @@ OBSAH: 1. Úvodní stránka (Jméno pekárny...)
        6. Úvod (kde je podnik dnes)
        7. Úvod (O lidech co tento podnik vlastní)
        8. Příprava jídla
-       9. Pekaři a pekařki (představení)
-       10. Pekaři a pekařki (představení)
-       11.  Pekaři a pekařki (představení)
+       9. Pekaři a pekařky (představení)
+       10. Pekaři a pekařky (představení)
+       11.  Pekaři a pekařky (představení)
        12. Menu
        13. Menu
        14. Menu
